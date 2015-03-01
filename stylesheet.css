@@ -1,0 +1,18 @@
+#navbar {
+	position: fixed;
+}
+ul{
+	list-style-type: none;
+	position: fixed;
+	margin: -10px;
+}
+
+li {
+	border: 2px solid #ae323b;
+	font-family: Papyrus, Arial, sans-serif;
+	color: #bab3b2;
+	border-radius: 5px 5px;
+	background-color: #dddddd;
+	display: inline;
+	padding: 5px;
+}
