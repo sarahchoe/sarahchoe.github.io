@@ -8,11 +8,11 @@ ul{
 }
 
 li {
-	border: 10em solid #ae323b;
+	border: 20px solid #ae323b;
 	font-family: Papyrus, Arial, sans-serif;
 	color: #bab3b2;
-	border-radius: 5em 5em;
+	border-radius: 10px 10px;
 	background-color: #dddddd;
 	display: inline;
-	padding: 5em;
+	padding: 10px;
 }
