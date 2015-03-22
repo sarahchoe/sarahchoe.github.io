@@ -2,8 +2,8 @@
 '
 body, div, h1, h2, h3, h4, h5, h6, p, ul, img {margin:0px; padding:0px; } /*CSS Reset gets rid of all default settings allows for more manipulation*/
 body { font-family: Times, Arial, sans-serif;
-		background-image: url("image/Senior-Project-Background_01.gif");
-		background-size: cover;
+		background-image: url('image/Senior-Project-Background_01.gif');
+		background-size:100% 100%;
 }
 #navbar {
 	border: 5px;
