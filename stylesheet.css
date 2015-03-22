@@ -5,7 +5,4 @@ body { font-family: Times, Arial, sans-serif;}
 .container {
   width: 700px;
   margin: 0 auto;
-}
-#main {
-  background: url (images/SeniorProject.jpg) repeat-x;
-}
+background: url (images/SeniorProject.jpg) repeat-x;
