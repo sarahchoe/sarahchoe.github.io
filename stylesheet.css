@@ -2,21 +2,3 @@
 body {
 
 }
-#navbar {
-  position: fixed;
-}
-ul{
-  list-style-type: none;
-  position: fixed;
-  margin: -10px;
-}
-
-li {
-  border: 10px solid #ae323b;
-  font-family: Papyrus, Arial, sans-serif;
-  color: #a0294c;
-  border-radius: 6px 6px;
-  background-color: #dddddd;
-  display: inline;
-  padding: 6px;
-}
