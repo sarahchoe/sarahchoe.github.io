@@ -8,6 +8,6 @@ body { font-family: Times, Arial, sans-serif;
   margin: 0 auto;
 }
 #main {
-	background-image: url('file:///Users/Sarah/Desktop/images/SeniorProject.gif') repeat-x;
+	background-image: url('../../Users/Sarah/Desktop/images/SeniorProject.gif') repeat-x;
 }
 
