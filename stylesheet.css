@@ -1,9 +1,11 @@
 /* Initial body */
 '
-body, div, h1, h2, h3, h4, h5, h6, p, ul, img {margin:0px; padding:0px; }
+body, div, h1, h2, h3, h4, h5, h6, p, ul, img {margin:0px; padding:0px; } /*CSS Reset gets rid of all default settings allows for more manipulation*/
 body { font-family: Times, Arial, sans-serif;}
 .container {
   width: 700px;
   margin: 0 auto;
 }
-
+#main {
+  background: url (Coding/Website.jpg);
+}
