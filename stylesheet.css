@@ -1,4 +1,7 @@
 /* Initial body */
-body {
-
+body { font-family: Times, Arial, sans-serif;}
+.container {
+  width: 700px;
+  margin: 0 auto;
 }
+
