@@ -4,6 +4,7 @@ body, div, h1, h2, h3, h4, h5, h6, p, ul, img {margin:0px; padding:0px; } /*CSS 
 body { font-family: Times, Arial, sans-serif;
 		background-image: url("images/Senior-Project-Background_01.gif");
 		background-size:120% 100%;
+		background-repeat: no-repeat;
 }
 #navbar {
 	border: 5px;
