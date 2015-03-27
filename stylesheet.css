@@ -15,7 +15,6 @@ body { font-family: Times, Arial, sans-serif;
 #navbar {
 	position: relative;
 	width: 130%;
-	margin-top: -20px;
 	height: 90px;
 	background-color: #c6c4c4;
 	margin-bottom: 10px;
