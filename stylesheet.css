@@ -8,6 +8,10 @@ body { font-family: Times, Arial, sans-serif;
 }
 #navbar {
 	border: 5px;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
 }
 .container {
   width: 700px;
