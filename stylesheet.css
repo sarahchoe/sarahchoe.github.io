@@ -7,10 +7,10 @@ body { font-family: Times, Arial, sans-serif;
 #header {
 	z-index: 1;
 	position: fixed;
-	width: 100%;
+	width: 110%;
 	margin-top: -20px;
-	height: 100px;
-	background-color: #9d0b0b;
+	height: 120px;
+	background-color: #991a1a;
 	margin-bottom: 10px;
 }
 #navbar {
