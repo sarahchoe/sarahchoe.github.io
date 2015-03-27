@@ -7,7 +7,7 @@ body { font-family: Times, Arial, sans-serif;
 #header {
 	z-index: 1;
 	position: fixed;
-	width: 110%;
+	width: 130%;
 	margin-top: -20px;
 	height: 120px;
 	background-color: #991a1a;
@@ -16,7 +16,7 @@ body { font-family: Times, Arial, sans-serif;
 #navbar {
 	z-index: 1;
 	position: fixed;
-	width: 110%;
+	width: 130%;
 	margin-top: -20px;
 	height: 90px;
 	background-color: #c6c4c4;
