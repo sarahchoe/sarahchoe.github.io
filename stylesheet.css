@@ -14,7 +14,13 @@ body { font-family: Times, Arial, sans-serif;
 	margin-bottom: 10px;
 }
 #navbar {
-	border: 5px;
+	z-index: 1;
+	position: fixed;
+	width: 110%;
+	margin-top: -20px;
+	height: 90px;
+	background-color: #c6c4c4;
+	margin-bottom: 10px;
 }
 ul {
 	list-style-type: none;
