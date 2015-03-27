@@ -8,7 +8,6 @@ body { font-family: Times, Arial, sans-serif;
 	z-index: 1;
 	position: fixed;
 	width: 130%;
-	margin-top: -20px;
 	height: 120px;
 	background-color: #991a1a;
 	margin-bottom: 10px;
