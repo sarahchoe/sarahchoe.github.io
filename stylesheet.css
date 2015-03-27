@@ -37,7 +37,7 @@ ul {
 	margin-bottom: 10px;
 }
 #footer {
-	position: fixed;
+	position: relative;
 	width: 110%;
 	margin-top: -20px;
 	height: 120px;
