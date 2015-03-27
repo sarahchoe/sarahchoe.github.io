@@ -14,7 +14,6 @@ body { font-family: Times, Arial, sans-serif;
 	margin-bottom: 10px;
 }
 #navbar {
-	z-index: 2;
 	position: fixed;
 	width: 130%;
 	margin-top: -20px;
@@ -33,7 +32,6 @@ ul {
   margin: 0 auto;
 }
 #content {
-	z-index: 3;
 	position: fixed;
 	width: 130%;
 	height: 200px;
@@ -41,7 +39,6 @@ ul {
 	margin-bottom: 10px;
 }
 #footer {
-	z-index: 4;
 	position: fixed;
 	width: 110%;
 	margin-top: -20px;
