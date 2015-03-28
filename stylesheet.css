@@ -14,9 +14,10 @@ body { font-family: Times, Arial, sans-serif;
 }
 #navbar ul {
 	position: relative;
-	width: 130%;
+	width: 550px;
 	height: 90px;
 	background-color: #c6c4c4;
+	border-radius: 8px;
 	margin-bottom: 10px;
 list-style: none;
 	margin: 0;
