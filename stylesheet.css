@@ -13,7 +13,8 @@ body { font-family: Times, Arial, sans-serif;
 	margin-bottom: 10px;
 }
 #navbar {
-	width: 500px;
+	width: 5000px;
+	margin-left: -10px;
 }
 #navbar ul {
 	position: relative;
