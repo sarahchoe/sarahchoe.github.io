@@ -12,9 +12,12 @@ body { font-family: Times, Arial, sans-serif;
 	background-color: #991a1a;
 	margin-bottom: 10px;
 }
+#navbar {
+	width: 500px;
+}
 #navbar ul {
 	position: relative;
-	width: 5000px;
+	width: 100%;
 	height: 90px;
 	background-color: #c6c4c4;
 	border-radius: 8px;
