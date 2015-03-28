@@ -12,22 +12,30 @@ body { font-family: Times, Arial, sans-serif;
 	background-color: #991a1a;
 	margin-bottom: 10px;
 }
-#navbar {
+#navbar ul {
 	position: relative;
 	width: 130%;
 	height: 90px;
 	background-color: #c6c4c4;
 	margin-bottom: 10px;
-display: inline;
-
-
-}
-ul {
-	list-style-type: none;
+list-style: none;
 	margin: 0;
 	padding: 0;
+display: inline;
+
 }
+
+#navbar a {
+text-decoration: none;
+dipslay: block;
+transition: .3s background-color;
 }
+#navbar a:hover {
+background-color: #fff;
+color: #444;
+cursour: default;
+}
+
 .container {
   width: 700px;
   margin: 0 auto;
@@ -48,4 +56,3 @@ ul {
 	margin-bottom: 10px;
 	clear: both;
 }
-
