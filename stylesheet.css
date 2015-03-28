@@ -18,6 +18,9 @@ body { font-family: Times, Arial, sans-serif;
 	height: 90px;
 	background-color: #c6c4c4;
 	margin-bottom: 10px;
+display: inline;
+
+
 }
 ul {
 	list-style-type: none;
