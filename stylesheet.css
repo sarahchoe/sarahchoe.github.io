@@ -46,6 +46,8 @@ transition: .3s background-color;
 background-color: #731A3E;
 color: #444;
 cursor: default;
+padding-top: 12px;
+padding-bottom: 3px;
 }
 
 
