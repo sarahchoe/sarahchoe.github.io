@@ -35,12 +35,15 @@ padding: 20px;
 }
 
 #navbar a {
+float: left;
+color: #000;
+margin: 0 5px 0 0;
 text-decoration: none;
 dipslay: block;
 transition: .3s background-color;
 }
 #navbar a:hover {
-background-color: #fff;
+background-color: #731A3E;
 color: #444;
 cursor: default;
 }
