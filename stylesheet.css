@@ -12,6 +12,7 @@ body { font-family: Times, Arial, sans-serif;
 	background-color: #991a1a;
 	padding: 0;
 }
+#header {border-bottom: 5px solid #45051E;}
 #navbar {
 	width: auto;
 	margin-left: -10px;
@@ -20,7 +21,7 @@ body { font-family: Times, Arial, sans-serif;
 	height: auto;
 	font-family: Palatino, Bakserville, Century Gothic;
 }
-#navbar {border-top: 5px solid #45051E;}
+
 #navbar ul {
 	position: relative;
 	width: auto;
