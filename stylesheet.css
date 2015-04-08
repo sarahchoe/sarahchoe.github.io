@@ -16,6 +16,7 @@ body { font-family: Times, Arial, sans-serif;
 	width: 100%;
 	margin-left: -10px;
 }
+#navbar {border-top: 5px solid #731A3E;}
 #navbar ul {
 	position: relative;
 	width: 100%;
