@@ -31,6 +31,7 @@ body { font-family: Times, Arial, sans-serif;
 	list-style: none;
 	margin: 0;
 	line-height: 1;
+	zoom: 1;
 }
 #navbar li {
 display: inline;
@@ -43,7 +44,8 @@ color: #000;
 margin: 0 5px 0 0;
 text-decoration: none;
 display: block;
-transition: .3s background-color;
+text-transform: uppercase;
+transition: .3s;
 }
 #navbar a:hover {
 background-color: #45051E;
