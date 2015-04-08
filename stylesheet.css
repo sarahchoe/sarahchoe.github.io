@@ -48,7 +48,6 @@ transition: .3s background-color;
 #navbar a:hover {
 background-color: #45051E;
 color: #fff;
-cursor: default;
 padding-top: 12px;
 padding-bottom: 3px;
 }
