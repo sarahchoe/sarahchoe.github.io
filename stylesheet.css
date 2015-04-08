@@ -64,6 +64,9 @@ padding-bottom: 3px;
 	margin-left: -5px;
 	padding: 0;
 }
+#sidebar {
+	float: right;
+}
 #footer {
 	position: relative;
 	width: auto;
