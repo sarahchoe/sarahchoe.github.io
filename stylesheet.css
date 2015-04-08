@@ -18,7 +18,6 @@ body { font-family: Times, Arial, sans-serif;
 	margin-left: -10px;
 	background-color: #fff;
 	border: 0;
-	height: 100px;
 	font-family: Palatino, Bakserville, Century Gothic;
 }
 
@@ -31,7 +30,7 @@ body { font-family: Times, Arial, sans-serif;
 	margin-bottom: 10px;
 	list-style: none;
 	margin: 0;
-	line-height: 1;
+	line-height: 2;
 	zoom: 1;
 }
 #navbar li {
