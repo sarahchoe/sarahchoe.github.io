@@ -46,7 +46,7 @@ transition: .3s background-color;
 }
 #navbar a:hover {
 background-color: #45051E;
-color: #444;
+color: #000;
 cursor: default;
 padding-top: 12px;
 padding-bottom: 3px;
