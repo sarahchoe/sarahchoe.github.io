@@ -18,7 +18,7 @@ body { font-family: Times, Arial, sans-serif;
 	margin-left: -10px;
 	background-color: #fff;
 	border: 0;
-	height: auto;
+	height: 50px;
 	font-family: Palatino, Bakserville, Century Gothic;
 }
 
@@ -42,7 +42,7 @@ padding: 20px;
 #navbar ul a {
 padding: 15px 25px;
 color: #000;
-margin: 0 5px 0 0;
+
 text-decoration: none;
 text-transform: uppercase;
 transition: .3s;
