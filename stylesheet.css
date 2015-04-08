@@ -31,19 +31,18 @@ body { font-family: Times, Arial, sans-serif;
 	list-style: none;
 	margin: 0;
 	line-height: 1;
-	padding: 0;
 }
 #navbar li {
 display: inline;
 padding: 20px;
 }
 
-#navbar a {
-float: left;
+#navbar ul a {
+padding: 15px 25px;
 color: #000;
 margin: 0 5px 0 0;
 text-decoration: none;
-dipslay: block;
+display: block;
 transition: .3s background-color;
 }
 #navbar a:hover {
