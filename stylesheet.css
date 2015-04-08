@@ -17,13 +17,13 @@ body { font-family: Times, Arial, sans-serif;
 	margin-left: -10px;
 	background-color: #fff;
 	border: 0;
+	height: auto;
 	font-family: Palatino, Bakserville, Century Gothic;
 }
 #navbar {border-top: 5px solid #45051E;}
 #navbar ul {
 	position: relative;
 	width: auto;
-	height: auto;
 	background-color: #c6c4c4;
 	border-radius: 8px;
 	margin-left: -5px;
@@ -43,7 +43,6 @@ padding: 15px 25px;
 color: #000;
 margin: 0 5px 0 0;
 text-decoration: none;
-displa: block;
 text-transform: uppercase;
 transition: .3s;
 }
