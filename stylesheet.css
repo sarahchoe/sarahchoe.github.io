@@ -23,7 +23,7 @@ body { font-family: Times, Arial, sans-serif;
 #navbar ul {
 	position: relative;
 	width: auto;
-	height: 90px;
+	height: auto;
 	background-color: #c6c4c4;
 	border-radius: 8px;
 	margin-left: -5px;
@@ -51,7 +51,6 @@ transition: .3s;
 background-color: #45051E;
 color: #fff;
 padding-top: 12px;
-padding-bottom: 3px;
 }
 
 
