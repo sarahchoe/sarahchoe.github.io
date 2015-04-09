@@ -80,4 +80,5 @@ padding-top: 10px;
 }
 #sidebar li {
 	display: inline;
+	text-decoration: none;
 }
