@@ -78,3 +78,8 @@ padding-top: 10px;
 .container {
 	float: right;
 }
+#subscribe {
+	list-style: none;
+	float: left;
+	display: inline;
+}
