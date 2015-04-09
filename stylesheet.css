@@ -62,9 +62,6 @@ padding-top: 10px;
 	margin-left: -5px;
 	padding: 0;
 }
-#sidebar {
-	float: right;
-}
 #footer {
 	position: relative;
 	width: auto;
@@ -78,7 +75,7 @@ padding-top: 10px;
 .container {
 	float: right;
 }
-#subscribe {
+#sidebar {
 	list-style: none;
 	float: left;
 	display: inline;
