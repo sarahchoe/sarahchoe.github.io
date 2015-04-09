@@ -39,7 +39,7 @@ padding: 20px;
 }
 
 #navbar ul a {
-padding: 8px 25px;
+padding: 8px 25px -1px;
 color: #000;
 
 text-decoration: none;
