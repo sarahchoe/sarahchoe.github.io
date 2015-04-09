@@ -61,6 +61,7 @@ padding-top: 10px;
 	margin-left: -5px;
 	padding: 0;
 	text-align: center;
+	background-image: images("FullSizeRender.jpg");
 }
 #footer {
 	position: static;
