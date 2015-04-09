@@ -64,11 +64,11 @@ padding-top: 10px;
 	background-image: images("FullSizeRender.jpg");
 }
 #footer {
-	position: static;
+	position: relative;
 	width: auto;
 	height: 120px;
 	background-color: #5d0048;
-	margin-bottom: 10px;
+	margin-top -150px;
 	clear: both;
 	margin-left: -5px;
 	padding: 0;
