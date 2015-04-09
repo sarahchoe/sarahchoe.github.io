@@ -72,6 +72,7 @@ padding-top: 10px;
 	clear: both;
 	margin-left: -5px;
 	padding: 0;
+	display: block;
 }
 .container {
 	float: right;
