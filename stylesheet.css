@@ -75,11 +75,8 @@ padding-top: 10px;
 	background-repeat: no-repeat;
 	color:#000;
 	font-style: bold;
-	background-color: black;
 }
-#content p {
-	background-color: #fff;
-}
+
 #footer {
 	position: relative;
 	width: auto;
