@@ -115,3 +115,6 @@ height: 40px;
     font-size: 30px;
     vertical-align: center;
 }
+p.small {
+	line-height: .5;
+}
