@@ -97,6 +97,11 @@ padding-top: 10px;
 	text-decoration: none;
 	margin-left: -1px;
 }
+@font-face {
+	font-family: Candara;
+	src: (/Library/Fonts/Microsoft/Candara.ttf);
+
+}
 
 /*Volunteer Page*/
 #Application {
@@ -111,7 +116,7 @@ height: 40px;
     margin-bottom: 10px;
     text-align: center;
     text-decoration: none;
-    font-family: century;
+    font-family: ;
     font-size: 30px;
     margin-right: auto;
     margin-left: auto;
