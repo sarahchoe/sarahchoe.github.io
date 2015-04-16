@@ -101,12 +101,14 @@ padding-top: 10px;
 /*Volunteer Page*/
 #Application {
 height: 50px;
-    width: 200px;
-    border-color:#6495ED;
-    background-color: #BCD2EE;
+    width: 400px;
+    border-color:#990000;
+    background-color: #990000;
+    font: #fff;
     border-style: solid;
     border-width: 4px;
     border-radius: 5px;
     margin: auto;
     text-align: center;
+    text-decoration: none;
 }
