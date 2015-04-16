@@ -66,16 +66,19 @@ padding-top: 10px;
 	height: auto;
 	background-color: #fcfcfc;
 	margin-bottom: -17px;
-	margin-top: -19px;
-	margin-left: -10px;
+	margin-top: 19px;
+	margin-left: auto;
+	margin-right: auto;
 	padding: 0;
 	text-align: center;
 	background-size: cover;
 	background-repeat: no-repeat;
 	color:#000;
 	font-style: bold;
-
-	
+	background-color: black;
+}
+#content p {
+	background-color: #fff;
 }
 #footer {
 	position: relative;
