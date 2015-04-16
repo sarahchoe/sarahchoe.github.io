@@ -106,10 +106,8 @@ padding-top: 10px;
 	text-decoration: none;
 	margin-left: -1px;
 }
-
-
 /*Volunteer Page*/
-#Application {
+#application {
 	height: 40px;
     width: 400px;
     border-color:#990000;
