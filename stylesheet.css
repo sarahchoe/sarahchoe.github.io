@@ -1,0 +1,98 @@
+/*multiple pages*/
+'
+body, div, h1, h2, h3, h4, h5, h6, p, ul, img {margin:0px; padding:0px;} /*CSS Reset gets rid of all default settings allows for more manipulation*/
+body { font-family: Times, Arial, sans-serif;
+	
+}
+#header {
+	position: relative;
+	width: auto;
+	height: 120px;
+	margin-left: -5px;
+	background-color: #991a1a;
+	padding: 0;
+}
+#header {border-bottom: 5px solid #45051E;}
+#navbar {
+	width: auto;
+	margin-left: -10px;
+	background-color: #fff;
+	border: 0;
+	font-family: Palatino, Bakserville, Century Gothic;
+}
+
+#navbar ul {
+	position: relative;
+	width: auto;
+	background-color: #c6c4c4;
+	border-radius: 8px;
+	margin-left: -5px;
+	margin-bottom: 10px;
+	list-style: none;
+	margin: 0;
+	line-height: 2;
+	zoom: 1;
+}
+#navbar li {
+display: inline;
+padding: 20px;
+}
+
+#navbar ul a {
+padding: 8px 25px;
+color: #000;
+text-decoration: none;
+text-transform: uppercase;
+transition: .3s;
+}
+#navbar a:hover {
+background-color: #45051E;
+color: #fff;
+padding-top: 10px;
+}
+
+
+#content {
+	position: relative;
+	width: auto;
+	height: auto;
+	background-color: #fcfcfc;
+	margin-bottom: -17px;
+	margin-top: -19px;
+	margin-left: -5px;
+	padding: 0;
+	text-align: center;
+	background-image: url("../images/FullSizeRender.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	color:#fff;
+	font-family: Times;
+	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+	
+}
+#footer {
+	position: relative;
+	width: auto;
+	height: 120px;
+	background-color: #5d0048;
+	margin-top -150px;
+	clear: both;
+	margin-left: -5px;
+	padding: 0;
+	display: block;
+}
+.container {
+	float: right;
+}
+#sidebar {
+	list-style: none;
+	float: left;
+	text-decoration: none;
+	color: #fff;
+}
+#sidebar li {
+	display: inline;
+	color: #fff;
+	text-decoration: none;
+	margin-left: -1px;
+}
