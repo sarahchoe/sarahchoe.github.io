@@ -1,7 +1,7 @@
 /*multiple pages*/
 '
 body, div, h1, h2, h3, h4, h5, h6, p, ul, img {margin:0px; padding:0px;} /*CSS Reset gets rid of all default settings allows for more manipulation*/
-body { font-family: Times, Arial, sans-serif;
+body { font-family: 'Josefin Sans', sans-serif;;
 	
 }
 #header {
@@ -112,7 +112,6 @@ padding-top: 10px;
     margin-bottom: 10px;
     text-align: center;
     text-decoration: none;
-    font-family: 'Indie Flower', cursive;
     font-size: 30px;
     margin-right: auto;
     margin-left: auto;
