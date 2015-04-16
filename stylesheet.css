@@ -99,7 +99,7 @@ padding-top: 10px;
 }
 @font-face {
 	font-family: Candara;
-	src: (/Library/Fonts/Microsoft/Candara.ttf);
+	src: ("../Candara/Candara/Candara.ttf");
 
 }
 
