@@ -150,6 +150,10 @@ p.small {
  max-width: 100%;
     height: auto;
  }
-
+#about {
+	max-width: 100%;
+    height: auto;
+    width: auto\9;
+}
 
 
