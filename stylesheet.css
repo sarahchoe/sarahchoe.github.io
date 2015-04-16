@@ -54,6 +54,11 @@ color: #fff;
 padding-top: 10px;
 }
 
+#filler img{
+	 max-width: 100%;
+    height: auto;
+    width: auto\9;
+}
 
 #content {
 	position: relative;
@@ -65,13 +70,12 @@ padding-top: 10px;
 	margin-left: -10px;
 	padding: 0;
 	text-align: center;
-	background-image: url("../images/Cambodia.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	color:#000;
 	font-family: Times;
 	font-style: bold;
-
+img
 	
 }
 #footer {
@@ -122,6 +126,7 @@ padding-top: 10px;
     font-size: 30px;
     margin-right: auto;
     margin-left: auto;
+    line-height: 2;
 }
 #application a {
 	text-decoration: none;
