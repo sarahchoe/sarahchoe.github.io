@@ -123,6 +123,10 @@ padding-top: 10px;
     margin-right: auto;
     margin-left: auto;
 }
+#application a {
+	text-decoration: none;
+	color: #fff;
+}
 p.small {
 	line-height: .4;
 }
