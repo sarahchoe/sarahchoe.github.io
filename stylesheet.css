@@ -81,6 +81,8 @@ padding-top: 10px;
 #content p {
 	text-align: left;
 	float: center;
+	margin-left: 5px;
+	margin-right: 5px;
 }
 
 #footer {
