@@ -148,7 +148,7 @@ p.small {
 /*About Page*/
  #about {
  min-width: 1000px;
-    height: 1000px;
+    height: auto;
  }
 
 
