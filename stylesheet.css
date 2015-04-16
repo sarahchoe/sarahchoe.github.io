@@ -97,11 +97,7 @@ padding-top: 10px;
 	text-decoration: none;
 	margin-left: -1px;
 }
-@font-face {
-	font-family: Candara;
-	src: url("../Candara/Candara/Candara.ttf");
 
-}
 
 /*Volunteer Page*/
 #Application {
@@ -116,7 +112,7 @@ padding-top: 10px;
     margin-bottom: 10px;
     text-align: center;
     text-decoration: none;
-    font-family: Candara;
+    font-family: 'Indie Flower', cursive;
     font-size: 30px;
     margin-right: auto;
     margin-left: auto;
