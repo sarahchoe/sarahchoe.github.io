@@ -1,14 +1,8 @@
-var main = function() {
-  $('.icon-menu').click(function() {
-  	$('.menu').animate({
-  		left: '0px'
-  	}, 200);
-
-  	$('body').animate({
-  		left: '285px'
-  	}, 200);
-  	});
- 
-};
-
-$(document).ready(main);
+function getDocHeight() {
+    var D = document;
+    return Math.max(
+        D.body.scrollHeight, D.documentElement.scrollHeight,
+        D.body.offsetHeight, D.documentElement.offsetHeight,
+        D.body.clientHeight, D.documentElement.clientHeight
+    );
+}
