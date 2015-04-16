@@ -6,6 +6,9 @@ body { font-family: 'Josefin Sans', sans-serif;
 }
 html {
 	background-size: cover;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 #header {
 	position: relative;
