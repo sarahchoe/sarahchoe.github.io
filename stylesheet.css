@@ -147,13 +147,9 @@ p.small {
 
 /*About Page*/
  #about {
- max-width: 100%;
-    height: auto;
+ min-width: 1000px;
+    height: 2000px;
  }
-#about {
-	max-width: 100%;
-    height: auto;
-    width: auto\9;
-}
+
 
 
