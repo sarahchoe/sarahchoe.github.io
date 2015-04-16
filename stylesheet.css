@@ -38,11 +38,12 @@ body { font-family: 'Josefin Sans', sans-serif;
 #navbar li {
 display: inline;
 padding: 20px;
+color: #fff;
 }
 
 #navbar ul a {
 padding: 8px 25px;
-color: #000;
+color: #fff;
 text-decoration: none;
 text-transform: uppercase;
 transition: .3s;
