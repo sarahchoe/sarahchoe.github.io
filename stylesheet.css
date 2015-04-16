@@ -113,7 +113,7 @@ height: 40px;
     text-decoration: none;
     font-family: century;
     font-size: 30px;
-    vertical-align: center;
+    display: center;
 }
 p.small {
 	line-height: .4;
