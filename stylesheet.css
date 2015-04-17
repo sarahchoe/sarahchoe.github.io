@@ -148,14 +148,14 @@ p.small {
 /*About Page*/
  #about {
  	min-width: 1000px;
-    min-height: 630px;
+    min-height: 600px;
     bottom: 0;
  }
 
  /*Contact Page*/
  #contact {
  	min-width: 1000px;
-    min-height: 630px;
+    min-height: 600px;
     bottom: 0;
  }
 
@@ -163,7 +163,7 @@ p.small {
  /*Volunteer Page*/
  #volunteer {
  	min-width: 1000px;
-    min-height: 630px;
+    min-height: 600px;
     bottom: 0;
  }
 
